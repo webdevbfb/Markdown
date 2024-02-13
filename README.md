@@ -7,6 +7,6 @@ Die Kangal-Hirtenhunde haben eine typische schwarze Zeichnung im Gesicht (Maske)
 
 Der Name der Rasse scheint dem FCI-Standard von 2018 zufolge von der Stadt Kangal her zu kommen, denn dort gab es bereits vor der Anerkennung des Kangals als Rasse außerordentlich einheitliche Hirtenhunde, die international Aufmerksamkeit erregten.
 
-[Link zu Google](https://de.wikipedia.org/wiki/Kangal-Hirtenhund)
+[Link zum weiterlesen](https://de.wikipedia.org/wiki/Kangal-Hirtenhund)
 
-[Bildbeschreibung](300px-Varish_part.jpg)
+![Bildbeschreibung](300px-Varish_part.jpg)
