@@ -4,7 +4,7 @@
 - Stichpunk git merge
 - Stichpunk git pull
 
-### Michael 1 2
+### Bearbeitet
 
 
 
